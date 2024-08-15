@@ -1,0 +1,18 @@
+
+baner
+
+-- box puzzle: 		https://i.imgur.com/NKcHBjM.png
+-- tank: 			https://i.imgur.com/1s2QiAR.png
+-- dino rabbit: 	https://i.imgur.com/4woqjox.png
+-- bomber: 			https://i.imgur.com/MmgQswo.png
+
+
+-- json
+{
+	"img_link": "https://i.imgur.com/4woqjox.png",
+	"icon_link": "",
+	"ios_link": "https://apps.apple.com/us/app/tank-2020/id1483606280",
+	"android_link": "https://play.google.com/store/apps/details?id=com.threedotstudio.game.bomberhero",
+	"rate_show_ads": 10,
+	"rate_show_icon": -1
+},
